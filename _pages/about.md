@@ -49,4 +49,4 @@ I have had the privilege of working with a variety of exceptional researchers ov
 
 Support
 ======
-I am supported by a [GEM Fellowship](https://gemfellowship.org/) and an [ARCS Scholarship](https://arcsfoundation.org/).
+I am personally supported by a [GEM Fellowship](https://gemfellowship.org/) and an [ARCS Scholarship](https://arcsfoundation.org/). Additionally, a project I am working on with my advisors is supported by an [NSF-Amazon Fairness in AI Research Award](https://nsf.gov/awardsearch/showAward?AWD_ID=2040929&HistoricalAwards=false).
