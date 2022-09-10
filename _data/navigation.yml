@@ -4,4 +4,7 @@ main:
     url: /publications/
     
   - title: "CV"
-    url: /files/Michael Feffer CV_2021.pdf
+    url: /files/Michael Feffer CV_2022.pdf
+
+  - title: "Teaching"
+    url: /teaching/  
