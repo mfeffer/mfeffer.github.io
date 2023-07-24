@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "`whoami`"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+`whoami`
+========
 I am a second-year [Societal Computing](https://sc.cs.cmu.edu/) PhD student in the [Institute for Software Research](https://www.isri.cmu.edu/) at Carnegie Mellon University. Prior to coming to CMU, I graduated from MIT in 2018 with a Bachelor of Science degree in Computer Science and a Master of Engineering (MEng) degree in Electrical Engineering and Computer Science. Industry positions include:
 
 * software engineering summer intern at IMC Financial Markets on a fullstack web development project (React, Go, and MongoDB)
