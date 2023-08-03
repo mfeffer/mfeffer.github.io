@@ -28,25 +28,26 @@ I am broadly interested in applying AI and machine learning techniques to proble
 Collaborators and Mentors
 ======
 I have had the privilege of working with a variety of exceptional researchers over the years. They include the following:
+* At CMU
+  * [Hoda Heidari](https://www.cs.cmu.edu/~hheidari/)
+  * [Zachary Lipton](http://zacklipton.com/)
+  * [Chris Donahue](https://chrisdonahue.com/)
+  * [Michael Skirpan](http://mwskirpan.com/)
+  * [Rayid Ghani](http://www.rayidghani.com/)
+  * the rest of the [ACMI Lab](https://acmilab.org/people/)
+* At IBM
+  * [Mikhail Yurochkin](https://moonfolk.github.io/)
+  * [Vagner Figueredo de Santana](https://research.ibm.com/people/vagner-figueredo-de-santana)
+  * [Raya Horesh](https://researcher.watson.ibm.com/researcher/view.php?person=us-rhoresh)
+  * [Rogerio Abreu de Paula](https://research.ibm.com/people/rogerio-abreu-de-paula)
+  * [Martin Hirzel](http://hirzels.com/martin/)
+  * [Avraham Shinnar](https://www.researchgate.net/profile/Avraham-Shinnar-2)
+  * [Parikshit Ram](https://rithram.github.io/)
 * At MIT
   * [Randall Davis](http://people.csail.mit.edu/davis/)
   * [Rosalind Picard](https://web.media.mit.edu/~picard/)
   * [Ognjen Rudovic](https://www.media.mit.edu/people/orudovic/overview/)
   * the rest of the [Affective Computing Group](https://www.media.mit.edu/groups/affective-computing/overview/)
-* At IBM
-  * [Martin Hirzel](http://hirzels.com/martin/)
-  * [Avraham Shinnar](https://www.researchgate.net/profile/Avraham-Shinnar-2)
-  * [Parikshit Ram](https://rithram.github.io/)
-  * [Kiran Kate](https://researcher.watson.ibm.com/researcher/view.php?person=us-kakate)
-  * [Samuel Hoffman](https://www.researchgate.net/profile/Samuel-Hoffman)
-* At CMU
-  * [Zachary Lipton](http://zacklipton.com/)
-  * [Hoda Heidari](https://www.cs.cmu.edu/~hheidari/)
-  * and the rest of the [ACMI Lab](https://acmilab.org/people/)
-  * [Rayid Ghani](http://www.rayidghani.com/)
-  * [Alexandra Chouldechova](http://www.andrew.cmu.edu/user/achoulde/)
-* Other
-  * [Chris Donahue](https://chrisdonahue.com/) (research scientist at Google Magenta)
 
 Support
 ======
