@@ -4,10 +4,10 @@ main:
     url: /publications/
     
   - title: "CV"
-    url: /files/Michael Feffer CV_2022.pdf
+    url: /files/Michael Feffer CV_fall_2023.pdf
 
   - title: "Teaching"
     url: /teaching/
   
-  - title: "Talks"
-    url: /talks/
+  #- title: "Talks"
+  #  url: /talks/
