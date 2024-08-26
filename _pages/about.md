@@ -9,11 +9,12 @@ redirect_from:
 ---
 `whoami`
 ========
-I am a rising fourth-year [Societal Computing](https://sc.cs.cmu.edu/) PhD student in the [Software and Societal Systems Department](https://s3d.cmu.edu/) at Carnegie Mellon University. Prior to coming to CMU, I graduated from MIT in 2018 with a Bachelor of Science degree in Computer Science and a Master of Engineering (MEng) degree in Electrical Engineering and Computer Science. Industry positions include:
+I am a fourth-year [Societal Computing](https://sc.cs.cmu.edu/) PhD student in the [Software and Societal Systems Department](https://s3d.cmu.edu/) at Carnegie Mellon University. Prior to coming to CMU, I graduated from MIT in 2018 with a Bachelor of Science degree in Computer Science and a Master of Engineering (MEng) degree in Electrical Engineering and Computer Science. Industry positions include:
 
 * software engineering summer intern at IMC Financial Markets on a fullstack web development project (React, Go, and MongoDB)
 * full-time software engineer at Mastercard Data & Services for 2.5 years on projects ranging from fullstack web development (React, C# .NET, and SQL Server) to analytic research (R and Python).
 * summer research intern at IBM Research in AI Engineering (Python)
+* summer research intern at Spotify on a speech transcription project (Python)
 
 Research
 ======
@@ -35,6 +36,10 @@ I have had the privilege of working with a variety of exceptional researchers ov
   * [Michael Skirpan](http://mwskirpan.com/)
   * [Rayid Ghani](http://www.rayidghani.com/)
   * the rest of the [ACMI Lab](https://acmilab.org/people/)
+* At Spotify
+  * [Rosie Jones](http://www.rosiejonesphd.com/)
+  * [Lucy Lin](https://lucylin.github.io/)
+  * [Sravana Reddy](https://ieeexplore.ieee.org/author/37089103219)
 * At IBM
   * [Mikhail Yurochkin](https://moonfolk.github.io/)
   * [Vagner Figueredo de Santana](https://research.ibm.com/people/vagner-figueredo-de-santana)
@@ -51,4 +56,4 @@ I have had the privilege of working with a variety of exceptional researchers ov
 
 Support
 ======
-I am personally supported by a [GEM Fellowship](https://gemfellowship.org/) and an [ARCS Scholarship](https://arcsfoundation.org/). My research is additionally supported by an [NSF-Amazon Fairness in AI Research Award](https://nsf.gov/awardsearch/showAward?AWD_ID=2040929&HistoricalAwards=false).
+I am personally supported by a [GEM Fellowship](https://gemfellowship.org/). My research is additionally supported by an [NSF-Amazon Fairness in AI Research Award](https://nsf.gov/awardsearch/showAward?AWD_ID=2040929&HistoricalAwards=false).
