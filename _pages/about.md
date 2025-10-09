@@ -9,24 +9,16 @@ redirect_from:
 ---
 `whoami`
 ========
-I am a fifth-year [Societal Computing](https://sc.cs.cmu.edu/) PhD student in the [Software and Societal Systems Department](https://s3d.cmu.edu/) at Carnegie Mellon University. Prior to coming to CMU, I graduated from MIT in 2018 with a Bachelor of Science degree in Computer Science and a Master of Engineering (MEng) degree in Electrical Engineering and Computer Science. Industry positions include:
+I am a fifth-year [Societal Computing](https://sc.cs.cmu.edu/) PhD student in the [Software and Societal Systems Department](https://s3d.cmu.edu/) at Carnegie Mellon University. I am broadly interested in examining interactions between AI and society to study how to leverage the strengths of AI while avoiding negative outcomes and impacts. Currently, my primary areas of research are:
 
-* software engineering summer intern at IMC Financial Markets on a fullstack web development project (React, Go, and MongoDB)
-* full-time software engineer at Mastercard Data & Services for 2.5 years on projects ranging from fullstack web development (React, C# .NET, and SQL Server) to analytic research (R and Python).
-* summer research intern at IBM Research in AI Engineering (Python)
-* summer research intern at Spotify on a speech transcription project (Python)
-
-**I am on the job market for academic and industry positions starting in 2026 which would ideally let me continue researching the areas below.** 
-
-Research
-======
-I am broadly interested in examining interactions between AI and society to study how to leverage the strengths of AI while avoiding negative outcomes and impacts. Currently, my primary areas of research are:
-
+* AI alignment
 * algorithmic fairness
 * music information retrieval
 * participatory machine learning
 * AI for social good
 * ethics and evaluation of generative AI
+
+**I am on the job market for academic and industry positions starting in 2026 which would ideally let me continue researching these areas.** 
 
 Collaborators and Mentors
 ======
